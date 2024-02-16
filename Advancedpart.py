@@ -9,7 +9,7 @@ app = Flask(__name__)
 @app.route('/profile')
 def y():
     rand=random.randint(1,100)
-    rand=request.args.get('a')
+    #rand=request.args.get('a',200)
     return render_template('Profile.html',name=rand)
 
 
