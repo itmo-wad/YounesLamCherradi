@@ -1,5 +1,7 @@
 🌟 Welcome to My Enchanted Homework 1 Project! 🌟
 
+WEBSITE: https://youneslamcherradi.github.io/
+
 In this mystical assignment, I've woven spells with HTML and CSS to craft a visually captivating website, while invoking the dynamic powers of Flask as the sorcerer behind the scenes.
 
 At first, I unleashed the magic of GitHub Pages to host my wondrous creation, where it shimmered like a celestial gem in the digital cosmos. But behold! There's more to this tale!
